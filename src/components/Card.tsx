@@ -1,5 +1,5 @@
-import Star from '../assets/star.svg'
-import Star_fill from '../assets/star_fill.svg'
+import Star from '../assets/Star.svg'
+import Star_fill from '../assets/Star_fill.svg'
 import { Coffee } from '../App'
 
 const Card = ({ coffee }: { coffee: Coffee }) => {
