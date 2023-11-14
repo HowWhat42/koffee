@@ -42,7 +42,7 @@ function App() {
   return (
     <div className='flex justify-center'>
       <img src={bgCoffee} alt='bgCoffee' className='fixed top-0 -z-20' />
-      <div className='bg-grey relative w-full max-w-md lg:max-w-2xl xl:max-w-6xl p-16 my-20 xl:my-40 rounded-2xl z-0 overflow-hidden'>
+      <div className='bg-grey relative w-full max-w-md lg:max-w-2xl xl:max-w-6xl p-14 my-20 xl:my-40 rounded-2xl z-0 overflow-hidden'>
           <img src={vector} alt="vector" className='absolute top-8 right-[-12%] lg:right-[14%] xl:right-[28%]' style={{zIndex: -1}} />
           <div className='flex flex-col items-center z-10'>
             <h1 className='text-light text-3xl text-center'>Our Collection</h1>
